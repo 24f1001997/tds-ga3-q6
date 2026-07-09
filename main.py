@@ -6,8 +6,8 @@ from fastapi.middleware.cors import CORSMiddleware
 import httpx
 
 # ======= FILL THESE TWO IN =======
-EMAIL = "your_email@ds.study.iitm.ac.in"
-AIPIPE_TOKEN = "PASTE_YOUR_AIPIPE_TOKEN"
+EMAIL = "24f1001997@ds.study.iitm.ac.in"
+AIPIPE_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjI0ZjEwMDE5OTdAZHMuc3R1ZHkuaWl0bS5hYy5pbiIsImlhdCI6MTc4MzQwNTcxNCwiaXNzIjoiaHR0cHM6Ly9haXBpcGUub3JnIiwiYXVkIjoiYWlwaXBlLWFwaSIsImV4cCI6MTc4NDAxMDUxNH0.pTwpbcTIxEqlQMZhgxJ73fxN1slr4dHLmtwyG_V4O3w"
 # ==================================
 AIPIPE_BASE = "https://aipipe.org/openai/v1"
 
